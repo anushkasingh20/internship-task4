@@ -32,7 +32,10 @@ Build a binary classifier using logistic regression to predict outcomes based on
 - ROC-AUC Score: `XX`
 
 ## 📷 Visualizations
-- ROC Curve
+- ROC Curve![Screenshot 2025-06-01 231444](https://github.com/user-attachments/assets/2ff951dc-cfa7-470a-b073-bd43fbaaed6c)
+![Screenshot 2025-06-01 231652](https://github.com/user-attachments/assets/02be611b-5942-4214-b69b-0d0e91280557)
+
+- 
 - Confusion Matrix
 
 ## ❓ Interview Questions Answered
